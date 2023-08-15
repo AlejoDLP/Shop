@@ -90,10 +90,7 @@ const Footer = () => {
             <Center>
                 <Title>Link Utiles</Title>
                 <List>
-                    <a href="/">
-                        <ListItem>Inicio</ListItem>
-                    </a>
-                    <br />
+                    <ListItem>Inicio</ListItem>
                     <ListItem>Carrito</ListItem>
                     <ListItem>Papeleria</ListItem>
                     <ListItem>Alimentos</ListItem>
